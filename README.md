@@ -22,7 +22,7 @@ El juego te dirá si el número es mayor o menor que tu intento.
 4. Repite!
 
 #### Roadmap
-Este proyecto es parte del Roadmap.sh - Number Guessing Game.
+Este proyecto es parte del [Roadmap.sh - Number Guessing Game](https://roadmap.sh/projects/number-guessing-game).
 
 #### Licencia
 Este proyecto es de código abierto bajo la Licencia MIT.
